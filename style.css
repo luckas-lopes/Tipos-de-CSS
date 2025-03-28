@@ -1,0 +1,43 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px navy;
+    margin: 20px;
+    padding: 40px;
+}
+
+.border {
+    border-radius: 25px;
+}
+
+.title {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.mainColor {
+    color: navy;
+}
+
+.text {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.icone1 {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/706/706830.png");
+    background-size: cover;
+}
+
+.icone2 {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    background-image: url("https://cdn-icons-png.flaticon.com/256/3681/3681928.png");
+    background-size: cover;
+}
